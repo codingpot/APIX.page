@@ -4,6 +4,7 @@
 
 * [박찬엽](https://github.com/mrchypark) (<mrchypark@gmail.com>)
 * [Mo](https://github.com/kkweon) (<kkweon@gmail.com>)
+* [Chansung](https://github.com/deep-diver) (<deep.diver.csp@gmail.com>)
 
 # Design Docs
 
